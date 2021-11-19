@@ -1,0 +1,78 @@
+19-11-2021 09:17:35.633 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+19-11-2021 09:17:35.635 [Gauge] [INFO] Initializing specs cache with 1 specs
+19-11-2021 09:17:35.636 [Gauge] [DEBUG] Adding specs from c:\Users\yangzhaohu\Desktop\gauge_taiko\gauge-maven-java-selenium\specs\example.spec
+19-11-2021 09:17:35.636 [Gauge] [INFO] Initializing steps cache with 1 steps
+19-11-2021 09:17:35.637 [Gauge] [DEBUG] Watching directory: c:\Users\yangzhaohu\Desktop\gauge_taiko\gauge-maven-java-selenium\specs
+19-11-2021 09:17:35.637 [Gauge] [INFO] Starting language runner
+19-11-2021 09:17:35.637 [Gauge] [DEBUG] Found 1 files
+19-11-2021 09:17:35.658 [java] [DEBUG] ***** Printing Properties/Env Values *****
+19-11-2021 09:17:35.658 [java] [DEBUG] PATH: C:\Program Files\Eclipse Adoptium\jdk-11.0.13.8-hotspot\bin;C:\Program Files\Gauge\bin;C:\Users\yangzhaohu\AppData\Local\Programs\Python\Python37\Scripts;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\NetSarang\Xftp 6\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\Java\jdk1.8.0_201\jre\bin;C:\Program Files (x86)\Tesseract-OCR;d:\Program Files\OpenVPN\bin;C:\Program Files\TortoiseSVN\bin;D:\apache-tomcat-8.5.61\lib;D:\apache-tomcat-8.5.61\bin;D:\apache-maven-3.6.0\bin;C:\Program Files\VisualSVN Server\bin;D:\sonar-scanner-2.5.1\sonar-scanner-2.5.1\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;D:\apache-ant-1.9.14-bin\apache-ant-1.9.14\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\xampp\php;D:\Program Files\Git\bin;C:\Program Files\nodejs\;D:\nodejs\npm_global;C:\Program Files (x86)\NetSarang\Xftp 7\;C:\Program Files (x86)\NetSarang\Xshell 7\;C:\Users\yangzhaohu\AppData\Local\Programs\Python\Python37;C:\Users\yangzhaohu\AppData\Local\Microsoft\WindowsApps;D:\Programs\Fiddler;D:\Program Files\JetBrains\IntelliJ IDEA 2019.3\bin;C:\Users\yangzhaohu\AppData\Local\Microsoft\WindowsApps;C:\Users\yangzhaohu\AppData\Roaming\npm;D:\SoftWare\curl-7.78.0-win64-mingw\bin;D:\Program Files\Microsoft VS Code\bin
+19-11-2021 09:17:35.658 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_201
+19-11-2021 09:17:35.658 [java] [DEBUG] gauge_project_root: c:\Users\yangzhaohu\Desktop\gauge_taiko\gauge-maven-java-selenium
+19-11-2021 09:17:35.658 [java] [DEBUG] gauge_parallel_streams_count: 
+19-11-2021 09:17:35.658 [java] [DEBUG] gauge_reports_dir: reports
+19-11-2021 09:17:35.658 [java] [DEBUG] overwrite_reports: true
+19-11-2021 09:17:35.658 [java] [DEBUG] logs_directory: logs
+19-11-2021 09:17:35.658 [java] [DEBUG] enable_multithreading: false
+19-11-2021 09:17:35.659 [java] [DEBUG] gauge_specs_dir: specs
+19-11-2021 09:17:35.659 [java] [DEBUG] csv_delimiter: ,
+19-11-2021 09:17:35.659 [java] [DEBUG] gauge_java_home: 
+19-11-2021 09:17:35.659 [java] [DEBUG] gauge_custom_build_path: 
+19-11-2021 09:17:35.659 [java] [DEBUG] gauge_additional_libs: libs/*
+19-11-2021 09:17:35.659 [java] [DEBUG] gauge_jvm_args: 
+19-11-2021 09:17:35.659 [java] [DEBUG] gauge_custom_compile_dir: 
+19-11-2021 09:17:35.659 [java] [DEBUG] gauge_clear_state_level: scenario
+19-11-2021 09:17:35.659 [java] [DEBUG] ***** END *****
+19-11-2021 09:17:43.740 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+19-11-2021 09:17:43.744 [Gauge] [INFO] Initializing specs cache with 1 specs
+19-11-2021 09:17:43.744 [Gauge] [DEBUG] Adding specs from c:\Users\yangzhaohu\Desktop\gauge_taiko\gauge-maven-java-selenium\specs\example.spec
+19-11-2021 09:17:43.744 [Gauge] [INFO] Initializing steps cache with 1 steps
+19-11-2021 09:17:43.745 [Gauge] [DEBUG] Watching directory: c:\Users\yangzhaohu\Desktop\gauge_taiko\gauge-maven-java-selenium\specs
+19-11-2021 09:17:43.745 [Gauge] [INFO] Starting language runner
+19-11-2021 09:17:43.745 [Gauge] [DEBUG] Found 1 files
+19-11-2021 09:17:43.764 [java] [DEBUG] ***** Printing Properties/Env Values *****
+19-11-2021 09:17:43.764 [java] [DEBUG] PATH: C:\Program Files\Eclipse Adoptium\jdk-11.0.13.8-hotspot\bin;C:\Program Files\Gauge\bin;C:\Users\yangzhaohu\AppData\Local\Programs\Python\Python37\Scripts;C:\Program Files (x86)\Common Files\NetSarang;C:\Program Files (x86)\NetSarang\Xftp 6\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\Java\jdk1.8.0_201\jre\bin;C:\Program Files (x86)\Tesseract-OCR;d:\Program Files\OpenVPN\bin;C:\Program Files\TortoiseSVN\bin;D:\apache-tomcat-8.5.61\lib;D:\apache-tomcat-8.5.61\bin;D:\apache-maven-3.6.0\bin;C:\Program Files\VisualSVN Server\bin;D:\sonar-scanner-2.5.1\sonar-scanner-2.5.1\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;D:\apache-ant-1.9.14-bin\apache-ant-1.9.14\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\xampp\php;D:\Program Files\Git\bin;C:\Program Files\nodejs\;D:\nodejs\npm_global;C:\Program Files (x86)\NetSarang\Xftp 7\;C:\Program Files (x86)\NetSarang\Xshell 7\;C:\Users\yangzhaohu\AppData\Local\Programs\Python\Python37;C:\Users\yangzhaohu\AppData\Local\Microsoft\WindowsApps;D:\Programs\Fiddler;D:\Program Files\JetBrains\IntelliJ IDEA 2019.3\bin;C:\Users\yangzhaohu\AppData\Local\Microsoft\WindowsApps;C:\Users\yangzhaohu\AppData\Roaming\npm;D:\SoftWare\curl-7.78.0-win64-mingw\bin;D:\Program Files\Microsoft VS Code\bin
+19-11-2021 09:17:43.764 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_201
+19-11-2021 09:17:43.764 [java] [DEBUG] gauge_project_root: c:\Users\yangzhaohu\Desktop\gauge_taiko\gauge-maven-java-selenium
+19-11-2021 09:17:43.764 [java] [DEBUG] gauge_parallel_streams_count: 
+19-11-2021 09:17:43.764 [java] [DEBUG] gauge_reports_dir: reports
+19-11-2021 09:17:43.764 [java] [DEBUG] overwrite_reports: true
+19-11-2021 09:17:43.764 [java] [DEBUG] logs_directory: logs
+19-11-2021 09:17:43.764 [java] [DEBUG] enable_multithreading: false
+19-11-2021 09:17:43.764 [java] [DEBUG] gauge_specs_dir: specs
+19-11-2021 09:17:43.764 [java] [DEBUG] csv_delimiter: ,
+19-11-2021 09:17:43.765 [java] [DEBUG] gauge_java_home: 
+19-11-2021 09:17:43.765 [java] [DEBUG] gauge_custom_build_path: 
+19-11-2021 09:17:43.765 [java] [DEBUG] gauge_additional_libs: libs/*
+19-11-2021 09:17:43.765 [java] [DEBUG] gauge_jvm_args: 
+19-11-2021 09:17:43.765 [java] [DEBUG] gauge_custom_compile_dir: 
+19-11-2021 09:17:43.765 [java] [DEBUG] gauge_clear_state_level: scenario
+19-11-2021 09:17:43.765 [java] [DEBUG] ***** END *****
+19-11-2021 09:17:48.682 [java] [DEBUG] classpath set to c:\Users\yangzhaohu\Desktop\gauge_taiko\gauge-maven-java-selenium\target\test-classes;c:\Users\yangzhaohu\Desktop\gauge_taiko\gauge-maven-java-selenium\target\classes;D:\java\repository\com\thoughtworks\gauge\gauge-java\0.7.15\gauge-java-0.7.15.jar;D:\java\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;D:\java\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;D:\java\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;D:\java\repository\org\json\json\20210307\json-20210307.jar;D:\java\repository\com\google\protobuf\protobuf-java\3.15.8\protobuf-java-3.15.8.jar;D:\java\repository\com\google\guava\guava\30.1.1-jre\guava-30.1.1-jre.jar;D:\java\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\java\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;D:\java\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;D:\java\repository\org\checkerframework\checker-qual\3.8.0\checker-qual-3.8.0.jar;D:\java\repository\com\google\errorprone\error_prone_annotations\2.5.1\error_prone_annotations-2.5.1.jar;D:\java\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;D:\java\repository\io\grpc\grpc-netty-shaded\1.37.0\grpc-netty-shaded-1.37.0.jar;D:\java\repository\io\grpc\grpc-core\1.37.0\grpc-core-1.37.0.jar;D:\java\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;D:\java\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;D:\java\repository\io\grpc\grpc-protobuf\1.37.0\grpc-protobuf-1.37.0.jar;D:\java\repository\io\grpc\grpc-api\1.37.0\grpc-api-1.37.0.jar;D:\java\repository\io\grpc\grpc-context\1.37.0\grpc-context-1.37.0.jar;D:\java\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;D:\java\repository\io\grpc\grpc-protobuf-lite\1.37.0\grpc-protobuf-lite-1.37.0.jar;D:\java\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;D:\java\repository\io\grpc\grpc-stub\1.37.0\grpc-stub-1.37.0.jar;D:\java\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;D:\java\repository\org\assertj\assertj-core\3.19.0\assertj-core-3.19.0.jar;D:\java\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;D:\java\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;D:\java\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;D:\java\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;D:\java\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;D:\java\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;D:\java\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;D:\java\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;D:\java\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;D:\java\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;D:\java\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;D:\java\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;D:\java\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;D:\java\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;D:\java\repository\io\github\bonigarcia\webdrivermanager\4.4.0\webdrivermanager-4.4.0.jar;D:\java\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;D:\java\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;D:\java\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;D:\java\repository\org\apache\httpcomponents\client5\httpclient5\5.0.3\httpclient5-5.0.3.jar;D:\java\repository\org\apache\httpcomponents\core5\httpcore5\5.0.2\httpcore5-5.0.2.jar;D:\java\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.2\httpcore5-h2-5.0.2.jar;D:\java\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;D:\java\repository\org\rauschig\jarchivelib\1.1.0\jarchivelib-1.1.0.jar;D:\java\repository\org\apache\commons\commons-compress\1.20\commons-compress-1.20.jar;D:\java\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;D:\java\repository\org\reflections\reflections\0.9.10\reflections-0.9.10.jar;D:\java\repository\org\javassist\javassist\3.19.0-GA\javassist-3.19.0-GA.jar;D:\java\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar
+19-11-2021 09:17:48.872 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_201\jre\bin\java.exe
+19-11-2021 09:17:48.872 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_201\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+19-11-2021 09:17:48.872 [java] [DEBUG] stdout/stderr is logged to logs\7628-java.exe.out
+19-11-2021 09:17:49.216 [java] [DEBUG] multithreading is set to false
+19-11-2021 09:17:49.505 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+19-11-2021 09:17:49.718 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+19-11-2021 09:17:49.718 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+19-11-2021 09:17:49.718 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+19-11-2021 09:17:51.016 [java] [DEBUG] gauge-java took 1800milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+19-11-2021 09:17:51.024 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1800
+19-11-2021 09:17:51.024 [java] [DEBUG] starting gRPC server...
+19-11-2021 09:17:51.547 [java] [DEBUG] Scanning packages for steps
+19-11-2021 09:17:51.554 [java] [DEBUG] Scanning packages for hooks
+19-11-2021 09:17:51.574 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+19-11-2021 09:17:51.574 [java] [DEBUG] 	Open the Gauge homepage : public void implementation1()
+19-11-2021 09:17:51.574 [java] [DEBUG] 	Go to Gauge Get Started Page : public void gotoGetStartedPage() throws InterruptedException
+19-11-2021 09:17:51.574 [java] [DEBUG] 	Ensure installation instructions are available : public void ensureInstallationInstructionsAreAvailable() throws InterruptedException
+19-11-2021 09:17:52.405 [java] [DEBUG] started gRPC server on port 2070
+19-11-2021 09:17:52.405 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 2070
+19-11-2021 09:17:52.489 [Gauge] [DEBUG] Successfully made the connection with runner with port: 2070
+19-11-2021 09:17:52.489 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+19-11-2021 09:17:52.495 [Gauge] [DEBUG] Validation started.
+19-11-2021 09:17:53.553 [Gauge] [DEBUG] Validation completed.
+19-11-2021 09:17:53.556 [Gauge] [DEBUG] Validation started.
+19-11-2021 09:17:53.560 [Gauge] [DEBUG] Validation completed.
+19-11-2021 09:17:55.425 [Gauge] [DEBUG] Validation started.
+19-11-2021 09:17:55.451 [Gauge] [DEBUG] Validation completed.
